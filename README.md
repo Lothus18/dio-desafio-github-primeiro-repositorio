@@ -9,7 +9,11 @@ Repositório criado para o Desafio de Projeto
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax)
 
+[Principais comandos do terminal Linux](https://www.globalmind.com.br/principais-comandos-linux/)
+
 [Site para baixar o Git](https://git-scm.com/downloads)
+
+[Principais comandos do git](https://www.codigofonte.com.br/artigos/top-25-comandos-do-git)
 
 **Jogos para iniciantes em programação**
 
