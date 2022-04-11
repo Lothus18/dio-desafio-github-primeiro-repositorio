@@ -3,7 +3,7 @@ Repositório criado para o Desafio de Projeto
 
 **Links úteis**:
 
-[Flowgorith - App para criar Fluxogramas](https://flowgorithm.org/)
+[Flowgorithm - App para criar Fluxogramas](https://flowgorithm.org/)
 
 [Site para baixar o Portugol](https://github.com/UNIVALI-LITE/Portugol-Studio/releases/)
 
