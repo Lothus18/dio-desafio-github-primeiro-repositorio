@@ -15,7 +15,7 @@ Repositório criado para o Desafio de Projeto
 
 [Puzzle Minecraft](https://studio.code.org/s/stage/1/puzzle/1)
 
-[Lobo, ovelha e repolho](https://proprofs.com/games/wolf-sheep-cabbage/)
+[Lobo, ovelha e repolho](https://www.proprofsgames.com/wolf-sheep-and-cabbage/)
 
 [Pinguins](https://rachacuca.com.br/jogos/pinguins-numa-fria/)
 
