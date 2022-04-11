@@ -1,32 +1,32 @@
-**- Link para download do Flowgorithm:**
+- Link para download do Flowgorithm:
 https://flowgorithm.org/
 
 O Flowgorithm é usado para criar fluxogramas. Enfatiza o algoritmo e não a sintaxe de uma linguagem de programação, mas ele pode ser convertido em várias linguagens de programação específica.
 
 
-**- Link baixar o Portugol**
+- Link baixar o Portugol
 https://github.com/UNIVALI-LITE/Portugol-Studio/releases/
 
 O Portugol ou Português estruturado é um ambiente para aprender a programar, utilizam-se pseudocódigos escritos em português.
 
 
-**- Link para conhecer algumas sintaxes básicas do Markdown**
+- Link para conhecer algumas sintaxes básicas do Markdown
 https://www.markdownguide.org/basic-syntax
 
 O markdown é uma linguagem simples e visualmente mais limpa de marcação de texto (negrito, itálico, tamanho da fonte, links, etc), facilmente convertida em HTML. 
 
 
-**- Link para conhecer alguns comandos do Linux**
+- Link para conhecer alguns comandos do Linux
 https://www.globalmind.com.br/principais-comandos-linux/
 
 O git bash é um aplicativo do Git que utiliza linhas de comando. Essas linhas de comando são executadas no estilo Unix, então é importante conhecer alguns comandos do Linux.
 
 
-**- Link para download do Git:**
+- Link para download do Git:
 https://git-scm.com/downloads
 
 O Git é um sistema de controle de versões distribuído. É usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo
 
-**- Link com os principais comandos do Git**
+- Link com os principais comandos do Git
 https://www.codigofonte.com.br/artigos/top-25-comandos-do-git)
 
